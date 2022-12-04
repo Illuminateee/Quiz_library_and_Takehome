@@ -68,8 +68,6 @@ class Librarian extends CI_Controller
                
             }
             
-            
-            
         } else {
             $this->load->view('template/header');
             $this->load->view('librarian/add');

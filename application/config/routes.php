@@ -56,3 +56,4 @@ $route['translate_uri_dashes'] = FALSE;
 $route['hello-world'] = 'welcome/hello';
 $route['librarian'] = 'librarian/index';
 $route['librarian/add'] = 'librarian/add';
+// $route['book'] = 'book/index';
